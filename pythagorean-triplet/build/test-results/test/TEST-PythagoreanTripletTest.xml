@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PythagoreanTripletTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-04-17T12:53:32" hostname="DESKTOP-TICE1IG" time="0.824">
+  <properties/>
+  <testcase name="tripletsWhoseSumIs840WithFactorsLessThanOrEqualTo370()" classname="PythagoreanTripletTest" time="0.168"/>
+  <testcase name="tripletsWhoseSumIs1000()" classname="PythagoreanTripletTest" time="0.005"/>
+  <testcase name="tripletsWhoseSumIs1001()" classname="PythagoreanTripletTest" time="0.011"/>
+  <testcase name="tripletsWhoseSumIs108()" classname="PythagoreanTripletTest" time="0.003"/>
+  <testcase name="tripletsWhoseSumIs840()" classname="PythagoreanTripletTest" time="0.007"/>
+  <testcase name="tripletsWhoseSumIs12()" classname="PythagoreanTripletTest" time="0.004"/>
+  <testcase name="tripletsWhoseSumIs90()" classname="PythagoreanTripletTest" time="0.001"/>
+  <testcase name="tripletsWhoseSumIs30000WithFactorsLessThanOrEqualTo12500()" classname="PythagoreanTripletTest" time="0.255"/>
+  <testcase name="tripletsWhoseSumIs30000()" classname="PythagoreanTripletTest" time="0.339"/>
+  <system-out><![CDATA[
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
